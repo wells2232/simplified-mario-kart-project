@@ -1,10 +1,10 @@
 const characters = [
-    { NOME : "Mario", IMAGEM: "./public/mario.gif", VELOCIDADE : 4, MANOBRABILIDADE : 3, PODER : 3, PONTOS : 0 },
-    { NOME : "Luigi", IMAGEM: "./public/luigi.gif", VELOCIDADE : 3, MANOBRABILIDADE : 4, PODER : 4, PONTOS : 0 },
-    { NOME : "Yoshi", IMAGEM: "./public/yoshi.gif", VELOCIDADE : 2, MANOBRABILIDADE : 4, PODER : 3, PONTOS : 0 },
-    { NOME : "Peach", IMAGEM: "./public/peach.gif", VELOCIDADE : 3, MANOBRABILIDADE : 4, PODER : 2, PONTOS : 0 },
-    { NOME : "Bowser", IMAGEM: "./public/bowser.gif", VELOCIDADE : 5, MANOBRABILIDADE : 2, PODER : 5, PONTOS : 0 },
-    { NOME : "Donkey Kong", IMAGEM: "./public/dk.gif", VELOCIDADE : 2, MANOBRABILIDADE : 2, PODER : 5, PONTOS : 0 }
+    { NOME : "Mario", IMAGEM: "/public/mario.gif", VELOCIDADE : 4, MANOBRABILIDADE : 3, PODER : 3, PONTOS : 0 },
+    { NOME : "Luigi", IMAGEM: "/public/luigi.gif", VELOCIDADE : 3, MANOBRABILIDADE : 4, PODER : 4, PONTOS : 0 },
+    { NOME : "Yoshi", IMAGEM: "/public/yoshi.gif", VELOCIDADE : 2, MANOBRABILIDADE : 4, PODER : 3, PONTOS : 0 },
+    { NOME : "Peach", IMAGEM: "/public/peach.gif", VELOCIDADE : 3, MANOBRABILIDADE : 4, PODER : 2, PONTOS : 0 },
+    { NOME : "Bowser", IMAGEM: "/public/bowser.gif", VELOCIDADE : 5, MANOBRABILIDADE : 2, PODER : 5, PONTOS : 0 },
+    { NOME : "Donkey Kong", IMAGEM: "/public/dk.gif", VELOCIDADE : 2, MANOBRABILIDADE : 2, PODER : 5, PONTOS : 0 }
 ];
 
 const menu = document.getElementById("menu");
